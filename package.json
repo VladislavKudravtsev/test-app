@@ -6,7 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node .",
-    "start1": "sss"
+    "start1": "sss",
+    "start2": "sadsadsa"
   },
   "repository": {
     "type": "git",
