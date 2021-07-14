@@ -5,11 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node .",
-    "lint": "lint",
-    "jest-test": "21321321",
-    "oipiopoi": "wwwew",
-    "tete": "332"
+    "start": "node ."
   },
   "repository": {
     "type": "git",
